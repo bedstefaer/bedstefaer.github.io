@@ -1,6 +1,8 @@
 
 # Stefan Lugter
 
+![Stefan lugter hårdt ](img/stefan_lugter.png)
+
 # Welcome to MkDocs
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
